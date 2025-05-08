@@ -1,6 +1,6 @@
 # My first package
 
-This is my first package.
+This is my first package. Changed something
 
 # Installation
 ```bash
