@@ -1,4 +1,4 @@
-from .geometry import Point, Line
+from .geometry import Point, Line, distance
 
 
 __all__ = [
